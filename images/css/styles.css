@@ -39,15 +39,13 @@ body {
   color: #404bbf;
 }
 .header-address {
-  font-style: normal;
+ 
 }
 .address-link {
-  font-style: normal;
   letter-spacing: 0.02em;
   line-height: 1.5;
   font-size: 16px;
   color: #434455;
-  background-color: #fff;
 }
 .address-link:hover,
 .address-link:focus {
